@@ -5,7 +5,6 @@ Projeto com solução completa do desafio técnico usando MySQL + Python:
 - Case 1 (função dinâmica `retrieve_data`)
 - Case 2 (queries fixas + visualização TM)
 - Dashboard/visualizações IMDb
-- Geração de entrega em PDF
 
 ## Requisitos
 - Python 3.12+
