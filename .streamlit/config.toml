@@ -1,0 +1,10 @@
+[global]
+developmentMode = false
+
+[server]
+runOnSave = false
+fileWatcherType = "none"
+headless = true
+
+[client]
+toolbarMode = "minimal"
